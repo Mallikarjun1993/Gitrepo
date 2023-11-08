@@ -31,5 +31,10 @@ public void takescreenshot3() {
 	Assert.assertEquals(true, true);
 	
 }
+@Test
+public void takescreenshot4() {
+	Assert.assertEquals(true, true);
+	
+}
 
 }
